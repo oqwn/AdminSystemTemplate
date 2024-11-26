@@ -23,8 +23,8 @@ email: wzjwen@gmail.com
 author: Zhijun Wen
 description: >- # this means to ignore newlines until "baseurl:"
   This is the development logging and documententaion of the Admin System Template.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/AdminSystemTemplate" # the subpath of your site, e.g. /blog
+url: "https://oqwn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  oqwn
 
